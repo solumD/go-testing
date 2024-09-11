@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("these are changes from second branch")
+	fmt.Println("some changes in branch main")
 }
